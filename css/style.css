@@ -1,3 +1,5 @@
 header { background-color: lightblue; }
 main   { background-color: lightyellow; }
 footer { background-color: lightgreen; }
+
+div { display: flex; align-items: center; gap: 15px; }
